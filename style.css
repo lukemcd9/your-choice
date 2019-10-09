@@ -1,0 +1,53 @@
+.ui.menu.topmenu.borderless {
+    margin: 0;
+}
+
+.ui.orange.three.item.inverted.menu.topmenu.borderless {
+    margin: 0;
+}
+
+.right.item.orange-text {
+    color: orange;
+}
+
+.keyboard-background {
+    padding-top: 10px;
+    background-image: url('https://mechanicalkeyboards.com/images/sliders/Pure_White_Minis_home_slide.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.column.row {
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.three.column.centered {
+    margin-top: 175px;
+}
+
+.dark-bg {
+    background-color: #2e2e2e;
+}
+
+.black-bg {
+    background-color: black;
+}
+
+.dark-bg > .ui.middle.aligned.grid.container {
+    padding: 15px 0 15px 0;
+}
+
+.ui.header {
+    text-align: start;
+    color: white;
+}
+
+.column > .guide {
+    text-align: start;
+}
+
+.ui.medium.header {
+    color: darkorange;
+}
